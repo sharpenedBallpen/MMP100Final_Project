@@ -1,0 +1,30 @@
+body{background-color: #FFFFDB;}
+
+
+h1{text-align: center;
+ font-family: 'Yeseva One', cursive;}
+
+
+
+h2{text-align: center;
+   font-family: 'Cinzel', serif;}
+
+p{width:750px;
+  text-align: center;
+  font-family: 'Mali', cursive;
+  font-size: 3 em;
+  color: #1A68CC;}
+
+a{text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: FB9EFF;}
+
+
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.7em;
+    color: rgb(200,200,200);}
+
